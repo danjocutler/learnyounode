@@ -1,11 +1,3 @@
-// var fs = require('fs')
-// var path = require('path')
-// var extension = path.extname(list);
-
-// fs.readdir(process.argv[2], function(err, list){
-// 	console.log(extension)
-// })
-
 var fs = require('fs')
 var path = require('path')
 
